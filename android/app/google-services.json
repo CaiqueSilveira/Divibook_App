@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268558819724",
+    "firebase_url": "https://divbook-df44e.firebaseio.com",
+    "project_id": "divbook-df44e",
+    "storage_bucket": "divbook-df44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268558819724:android:c919e1ffe52856021df6a9",
+        "android_client_info": {
+          "package_name": "com.divibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268558819724-0demhgjd7ctutueajiivoj0jh1boa8re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divibook",
+            "certificate_hash": "eb6a1048be2ef920f762d6ba4d28e4b57023fc89"
+          }
+        },
+        {
+          "client_id": "268558819724-3jmjbqd0hkruatebm6lbtvu2of8anteb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjT07WsXeyGMH_7FdHfKkiC5pEkVXKqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268558819724-3jmjbqd0hkruatebm6lbtvu2of8anteb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
